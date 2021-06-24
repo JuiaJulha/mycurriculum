@@ -1,0 +1,12 @@
+.img {
+    width: 30px;
+    height: 30px;
+}
+
+.fundo {
+    padding: 20px;
+    height: 100px;
+    width: 10px;
+    background-color: darkseagreen;
+    color: darkslategrey;
+}
